@@ -1,0 +1,20 @@
+.App {
+  list-style-type: none; 
+}
+.App{
+    display:grid;
+  justify-content: center;
+  align-items: center;
+  margin: 4px auto;
+  color: #fff;
+  background: #036846;
+  padding: 16px;
+  width: 20%;
+  height: 50%;
+}
+.Naming{
+  justify-content: space-between;
+  align-items: center;
+  margin: 4px auto;
+  color:  #0a1818;
+}
